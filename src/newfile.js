@@ -1,2 +1,2 @@
 console.log("new file update")
-console.log("version 6")
+console.log("version 7")
